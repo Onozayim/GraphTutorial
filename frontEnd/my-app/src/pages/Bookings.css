@@ -1,0 +1,22 @@
+.book_list {
+  margin-top: 1rem;
+}
+
+.book__list__item {
+  list-style: none;
+  margin: 1rem 0;
+  padding: 1rem;
+  border: 1px solid #40e6b4;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 40rem;
+}
+
+.book__list__item h1 {
+  font-size: 1.5rem;
+  color: #40e6b4;
+  margin-top: 0.2rem;
+  padding: 0;
+}
